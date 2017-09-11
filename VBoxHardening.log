@@ -1,0 +1,235 @@
+28d8.2880: Log file opened: 5.1.26r117224 g_hStartupLog=0000000000000014 g_uNtVerCombined=0x611db110
+28d8.2880: \SystemRoot\System32\ntdll.dll:
+28d8.2880:     CreationTime:    2017-08-09T20:29:30.756969600Z
+28d8.2880:     LastWriteTime:   2017-08-09T20:34:01.678969600Z
+28d8.2880:     ChangeTime:      2017-08-09T22:37:28.997761900Z
+28d8.2880:     FileAttributes:  0x20
+28d8.2880:     Size:            0x1a7100
+28d8.2880:     NT Headers:      0xe0
+28d8.2880:     Timestamp:       0x595fa942
+28d8.2880:     Machine:         0x8664 - amd64
+28d8.2880:     Timestamp:       0x595fa942
+28d8.2880:     Image Version:   6.1
+28d8.2880:     SizeOfImage:     0x1aa000 (1744896)
+28d8.2880:     Resource Dir:    0x14e000 LB 0x5a028
+28d8.2880:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+28d8.2880:     [Raw version resource data: 0x14e0f0 LB 0x380, codepage 0x0 (reserved 0x0)]
+28d8.2880:     ProductName:     Microsoft® Windows® Operating System
+28d8.2880:     ProductVersion:  6.1.7601.23864
+28d8.2880:     FileVersion:     6.1.7601.23864 (win7sp1_ldr.170707-0600)
+28d8.2880:     FileDescription: NT Layer DLL
+28d8.2880: \SystemRoot\System32\kernel32.dll:
+28d8.2880:     CreationTime:    2017-08-09T20:29:29.828969600Z
+28d8.2880:     LastWriteTime:   2017-08-09T20:34:02.377969600Z
+28d8.2880:     ChangeTime:      2017-08-09T22:37:34.117185900Z
+28d8.2880:     FileAttributes:  0x20
+28d8.2880:     Size:            0x11c000
+28d8.2880:     NT Headers:      0xe0
+28d8.2880:     Timestamp:       0x595fa987
+28d8.2880:     Machine:         0x8664 - amd64
+28d8.2880:     Timestamp:       0x595fa987
+28d8.2880:     Image Version:   6.1
+28d8.2880:     SizeOfImage:     0x11f000 (1175552)
+28d8.2880:     Resource Dir:    0x116000 LB 0x528
+28d8.2880:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+28d8.2880:     [Raw version resource data: 0x1160b0 LB 0x3a4, codepage 0x0 (reserved 0x0)]
+28d8.2880:     ProductName:     Microsoft® Windows® Operating System
+28d8.2880:     ProductVersion:  6.1.7601.23864
+28d8.2880:     FileVersion:     6.1.7601.23864 (win7sp1_ldr.170707-0600)
+28d8.2880:     FileDescription: Windows NT BASE API Client DLL
+28d8.2880: \SystemRoot\System32\KernelBase.dll:
+28d8.2880:     CreationTime:    2017-08-09T20:30:15.116969600Z
+28d8.2880:     LastWriteTime:   2017-08-09T20:34:02.213969600Z
+28d8.2880:     ChangeTime:      2017-08-09T22:37:34.085969900Z
+28d8.2880:     FileAttributes:  0x20
+28d8.2880:     Size:            0x66800
+28d8.2880:     NT Headers:      0xe8
+28d8.2880:     Timestamp:       0x595fa988
+28d8.2880:     Machine:         0x8664 - amd64
+28d8.2880:     Timestamp:       0x595fa988
+28d8.2880:     Image Version:   6.1
+28d8.2880:     SizeOfImage:     0x6a000 (434176)
+28d8.2880:     Resource Dir:    0x68000 LB 0x530
+28d8.2880:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+28d8.2880:     [Raw version resource data: 0x680b0 LB 0x3ac, codepage 0x0 (reserved 0x0)]
+28d8.2880:     ProductName:     Microsoft® Windows® Operating System
+28d8.2880:     ProductVersion:  6.1.7601.23864
+28d8.2880:     FileVersion:     6.1.7601.23864 (win7sp1_ldr.170707-0600)
+28d8.2880:     FileDescription: Windows NT BASE API Client DLL
+28d8.2880: \SystemRoot\System32\apisetschema.dll:
+28d8.2880:     CreationTime:    2017-08-09T20:30:15.690969600Z
+28d8.2880:     LastWriteTime:   2017-08-09T20:34:01.631969600Z
+28d8.2880:     ChangeTime:      2017-08-09T22:37:28.826073900Z
+28d8.2880:     FileAttributes:  0x20
+28d8.2880:     Size:            0x1a00
+28d8.2880:     NT Headers:      0xc0
+28d8.2880:     Timestamp:       0x595fa921
+28d8.2880:     Machine:         0x8664 - amd64
+28d8.2880:     Timestamp:       0x595fa921
+28d8.2880:     Image Version:   6.1
+28d8.2880:     SizeOfImage:     0x50000 (327680)
+28d8.2880:     Resource Dir:    0x30000 LB 0x3f8
+28d8.2880:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+28d8.2880:     [Raw version resource data: 0x30060 LB 0x398, codepage 0x0 (reserved 0x0)]
+28d8.2880:     ProductName:     Microsoft® Windows® Operating System
+28d8.2880:     ProductVersion:  6.1.7601.23864
+28d8.2880:     FileVersion:     6.1.7601.23864 (win7sp1_ldr.170707-0600)
+28d8.2880:     FileDescription: ApiSet Schema DLL
+28d8.2880: NtOpenDirectoryObject failed on \Driver: 0xc0000022
+28d8.2880: supR3HardenedWinFindAdversaries: 0x2020
+28d8.2880: \SystemRoot\System32\drivers\mfeapfk.sys:
+28d8.2880:     CreationTime:    2014-02-17T20:17:06.603169800Z
+28d8.2880:     LastWriteTime:   2014-08-28T13:58:32.000000000Z
+28d8.2880:     ChangeTime:      2015-10-27T03:52:48.066001000Z
+28d8.2880:     FileAttributes:  0x20
+28d8.2880:     Size:            0x2c548
+28d8.2880:     NT Headers:      0xe0
+28d8.2880:     Timestamp:       0x53ee4b6e
+28d8.2880:     Machine:         0x8664 - amd64
+28d8.2880:     Timestamp:       0x53ee4b6e
+28d8.2880:     Image Version:   0.0
+28d8.2880:     SizeOfImage:     0x2a200 (172544)
+28d8.2880:     Resource Dir:    0x29a00 LB 0x340
+28d8.2880:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+28d8.2880:     [Raw version resource data: 0x29a60 LB 0x2dc, codepage 0x0 (reserved 0x0)]
+28d8.2880:     ProductName:     SYSCORE
+28d8.2880:     FileVersion:     SYSCORE.15.1.0.680
+28d8.2880:     PrivateBuild:    SYSCORE.15.1.0.680 F16
+28d8.2880:     FileDescription: Access Protection Filter Driver
+28d8.2880: \SystemRoot\System32\drivers\mfeavfk.sys:
+28d8.2880:     CreationTime:    2014-02-17T20:17:06.585168000Z
+28d8.2880:     LastWriteTime:   2016-03-11T21:04:44.000000000Z
+28d8.2880:     ChangeTime:      2016-05-16T15:23:42.253391900Z
+28d8.2880:     FileAttributes:  0x20
+28d8.2880:     Size:            0x55528
+28d8.2880:     NT Headers:      0xe8
+28d8.2880:     Timestamp:       0x56da2e83
+28d8.2880:     Machine:         0x8664 - amd64
+28d8.2880:     Timestamp:       0x56da2e83
+28d8.2880:     Image Version:   0.0
+28d8.2880:     SizeOfImage:     0x57000 (356352)
+28d8.2880:     Resource Dir:    0x55000 LB 0x758
+28d8.2880:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+28d8.2880:     [Raw version resource data: 0x55110 LB 0x334, codepage 0x0 (reserved 0x0)]
+28d8.2880:     ProductName:     SYSCORE
+28d8.2880:     ProductVersion:  15.4.0.815
+28d8.2880:     FileVersion:     SYSCORE.15.4.0.815
+28d8.2880:     PrivateBuild:    SYSCORE.15.4.0.815 F15,F16,F19
+28d8.2880:     FileDescription: Anti-Virus File System Filter Driver
+28d8.2880: \SystemRoot\System32\drivers\mfefirek.sys:
+28d8.2880:     CreationTime:    2015-08-13T14:53:34.642610500Z
+28d8.2880:     LastWriteTime:   2016-03-11T21:04:44.000000000Z
+28d8.2880:     ChangeTime:      2016-05-16T15:23:47.270893600Z
+28d8.2880:     FileAttributes:  0x20
+28d8.2880:     Size:            0x78728
+28d8.2880:     NT Headers:      0xe8
+28d8.2880:     Timestamp:       0x56da2ee9
+28d8.2880:     Machine:         0x8664 - amd64
+28d8.2880:     Timestamp:       0x56da2ee9
+28d8.2880:     Image Version:   0.0
+28d8.2880:     SizeOfImage:     0x7b000 (503808)
+28d8.2880:     Resource Dir:    0x77000 LB 0x388
+28d8.2880:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+28d8.2880:     [Raw version resource data: 0x77060 LB 0x328, codepage 0x0 (reserved 0x0)]
+28d8.2880:     ProductName:     SYSCORE
+28d8.2880:     ProductVersion:  15.4.0.815
+28d8.2880:     FileVersion:     SYSCORE.15.4.0.815
+28d8.2880:     PrivateBuild:    SYSCORE.15.4.0.815 F17,F18
+28d8.2880:     FileDescription: McAfee Core Firewall Engine Driver
+28d8.2880: \SystemRoot\System32\drivers\mfehidk.sys:
+28d8.2880:     CreationTime:    2014-02-17T20:17:06.396149100Z
+28d8.2880:     LastWriteTime:   2016-03-11T21:04:44.000000000Z
+28d8.2880:     ChangeTime:      2016-05-16T15:23:43.439510500Z
+28d8.2880:     FileAttributes:  0x20
+28d8.2880:     Size:            0xcdb28
+28d8.2880:     NT Headers:      0x100
+28d8.2880:     Timestamp:       0x56da2e0d
+28d8.2880:     Machine:         0x8664 - amd64
+28d8.2880:     Timestamp:       0x56da2e0d
+28d8.2880:     Image Version:   0.0
+28d8.2880:     SizeOfImage:     0xd9000 (888832)
+28d8.2880:     Resource Dir:    0xd5000 LB 0x758
+28d8.2880:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+28d8.2880:     [Raw version resource data: 0xd5110 LB 0x320, codepage 0x0 (reserved 0x0)]
+28d8.2880:     ProductName:     SYSCORE
+28d8.2880:     ProductVersion:  15.4.0.815
+28d8.2880:     FileVersion:     SYSCORE.15.4.0.815
+28d8.2880:     PrivateBuild:    SYSCORE.15.4.0.815 F14,F15,F16,F18,F20
+28d8.2880:     FileDescription: McAfee Link Driver
+28d8.2880: \SystemRoot\System32\drivers\mfewfpk.sys:
+28d8.2880:     CreationTime:    2014-02-17T20:17:05.584067900Z
+28d8.2880:     LastWriteTime:   2016-03-11T21:04:44.000000000Z
+28d8.2880:     ChangeTime:      2016-05-16T15:23:44.521618700Z
+28d8.2880:     FileAttributes:  0x20
+28d8.2880:     Size:            0x3b728
+28d8.2880:     NT Headers:      0xf0
+28d8.2880:     Timestamp:       0x56da2e29
+28d8.2880:     Machine:         0x8664 - amd64
+28d8.2880:     Timestamp:       0x56da2e29
+28d8.2880:     Image Version:   0.0
+28d8.2880:     SizeOfImage:     0x59000 (364544)
+28d8.2880:     Resource Dir:    0x57000 LB 0x380
+28d8.2880:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+28d8.2880:     [Raw version resource data: 0x57060 LB 0x320, codepage 0x0 (reserved 0x0)]
+28d8.2880:     ProductName:     SYSCORE
+28d8.2880:     ProductVersion:  15.4.0.815
+28d8.2880:     FileVersion:     SYSCORE.15.4.0.815
+28d8.2880:     PrivateBuild:    SYSCORE.15.4.0.815 F17,F18
+28d8.2880:     FileDescription: Anti-Virus Mini-Firewall Driver
+28d8.2880: \SystemRoot\System32\drivers\dgmaster.sys:
+28d8.2880:     CreationTime:    2017-05-22T13:30:52.453497100Z
+28d8.2880:     LastWriteTime:   2013-06-11T19:04:28.000000000Z
+28d8.2880:     ChangeTime:      2017-05-22T13:32:39.397675900Z
+28d8.2880:     FileAttributes:  0x20
+28d8.2880:     Size:            0x1556f0
+28d8.2880:     NT Headers:      0x108
+28d8.2880:     Timestamp:       0x51b766a9
+28d8.2880:     Machine:         0x8664 - amd64
+28d8.2880:     Timestamp:       0x51b766a9
+28d8.2880:     Image Version:   6.1
+28d8.2880:     SizeOfImage:     0x16a000 (1482752)
+28d8.2880:     Resource Dir:    0x12d000 LB 0x35f80
+28d8.2880:     [Version info resource found at 0x270! (ID/Name: 0x1; SubID/SubName: 0x409)]
+28d8.2880:     [Raw version resource data: 0x162c30 LB 0x34c, codepage 0x0 (reserved 0x0)]
+28d8.2880:     ProductName:     Digital Guardian
+28d8.2880:     ProductVersion:  6.0
+28d8.2880:     FileVersion:     6.0.4.0552 built by: WinDDK
+28d8.2880:     FileDescription: Digital Guardian Agent Master for 2K/XP
+28d8.2880: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume1\Program Files\Oracle\VirtualBox'
+28d8.2880: Calling main()
+28d8.2880: SUPR3HardenedMain: pszProgName=VirtualBox fFlags=0x2
+28d8.2880: supR3HardenedWinInitAppBin(0x2): '\Device\HarddiskVolume1\Program Files\Oracle\VirtualBox'
+28d8.2880: SUPR3HardenedMain: Respawn #1
+28d8.2880: System32:  \Device\HarddiskVolume1\Windows\System32
+28d8.2880: WinSxS:    \Device\HarddiskVolume1\Windows\winsxs
+28d8.2880: KnownDllPath: C:\Windows\system32
+28d8.2880: '\Device\HarddiskVolume1\Program Files\Oracle\VirtualBox\VirtualBox.exe' has no imports
+28d8.2880: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume1\Program Files\Oracle\VirtualBox\VirtualBox.exe)
+28d8.2880: supR3HardNtEnableThreadCreation:
+28d8.2880: supR3HardNtDisableThreadCreation: pvLdrInitThunk=000000007736a360 pvNtTerminateThread=000000007738c260
+28d8.2880: supR3HardenedWinDoReSpawn(1): New child 1c8.c7c [kernel32].
+28d8.2880: supR3HardNtChildGatherData: PebBaseAddress=000007fffffdf000 cbPeb=0x380
+28d8.2880: supR3HardNtPuChFindNtdll: uNtDllParentAddr=0000000077340000 uNtDllChildAddr=0000000077340000
+28d8.2880: supR3HardenedWinSetupChildInit: uLdrInitThunk=000000007736a360
+28d8.2880: supR3HardenedWinSetupChildInit: Start child.
+28d8.2880: supR3HardNtChildWaitFor: Found expected request 0 (PurifyChildAndCloseHandles) after 0 ms.
+28d8.2880: supR3HardNtChildPurify: Startup delay kludge #1/0: 515 ms, 62 sleeps
+28d8.2880: supHardNtVpScanVirtualMemory: enmKind=CHILD_PURIFICATION
+28d8.2880:  *0000000000000000-000000000000ffff 0x0001/0x0000 0x0000000
+28d8.2880:  *0000000000010000-000000000002ffff 0x0004/0x0004 0x0020000
+28d8.2880:  *0000000000030000-0000000000030fff 0x0040/0x0040 0x0020000 !!
+28d8.2880: supHardNtVpFreeOrReplacePrivateExecMemory: Replacing exec mem at 0000000000030000 (LB 0x1000, 0000000000030000 LB 0x1000)
+28d8.2880: supHardNtVpFreeOrReplacePrivateExecMemory: Free attempt #1 succeeded: 0x0 [0000000000030000/0000000000030000 LB 0/0x1000]
+28d8.2880: supHardNtVpFreeOrReplacePrivateExecMemory: QVM after free 0: [0000000000000000]/0000000000030000 LB 0x10000 s=0x10000 ap=0x0 rp=0x00000000000001
+28d8.2880: Error (rc=-5673):
+28d8.2880: NtAllocateVirtualMemory (0000000000030000 LB 0x1000) failed with rcNt=0xc0000018 allocating replacement memory for working around buggy protection software. See VBoxStartup.log for more details
+28d8.2880: Error (rc=-5645):
+28d8.2880: Too many virtual memory regions.
+
+28d8.2880: Error (rc=-5673):
+28d8.2880: supHardenedWinVerifyProcess failed with Unknown Status -5673 (0xffffe9d7): NtAllocateVirtualMemory (0000000000030000 LB 0x1000) failed with rcNt=0xc0000018 allocating replacement memory for working around buggy protection software. See VBoxStartup.log for more details 
+[rc=-5645] Too many virtual memory regions.
+28d8.2880: Error -5673 in supR3HardNtChildPurify! (enmWhat=5)
+28d8.2880: supHardenedWinVerifyProcess failed with Unknown Status -5673 (0xffffe9d7): NtAllocateVirtualMemory (0000000000030000 LB 0x1000) failed with rcNt=0xc0000018 allocating replacement memory for working around buggy protection software. See VBoxStartup.log for more details 
+[rc=-5645] Too many virtual memory regions.
+28d8.2880: supR3HardNtEnableThreadCreation:
